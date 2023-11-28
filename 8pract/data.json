@@ -1,0 +1,2355 @@
+
+  [
+    {
+      "movement": "22",
+      "noise": "41.44",
+      "light": "299.51",
+      "temperature": "22.3",
+      "case": 23,
+      "time": "2023-10-30 18:44:15.799285"
+    },
+    {
+      "movement": "63",
+      "noise": "44.9",
+      "light": "299.51",
+      "temperature": "22.3",
+      "case": 23,
+      "time": "2023-10-30 18:44:15.799286"
+    },
+    {
+      "movement": "44",
+      "noise": "48.38",
+      "light": "298.73",
+      "temperature": "22.3",
+      "case": 23,
+      "time": "2023-10-30 18:46:00.462203"
+    },
+    {
+      "movement": "133",
+      "noise": "44.72",
+      "light": "299.9",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:49:30.358146"
+    },
+    {
+      "movement": "63",
+      "noise": "55.21",
+      "light": "485.65",
+      "temperature": "22.3",
+      "case": 23,
+      "time": "2023-10-30 18:49:39.298646"
+    },
+    {
+      "movement": "55",
+      "noise": "59.65",
+      "light": "478.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:49:42.297071"
+    },
+    {
+      "movement": "96",
+      "noise": "45.03",
+      "light": "300.29",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:49:45.328586"
+    },
+    {
+      "movement": "68",
+      "noise": "43.17",
+      "light": "392.19",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:49:50.424358"
+    },
+    {
+      "movement": "63",
+      "noise": "47.33",
+      "light": "415.8",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:49:53.322394"
+    },
+    {
+      "movement": "94",
+      "noise": "41.38",
+      "light": "299.9",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:49:56.362046"
+    },
+    {
+      "movement": "49",
+      "noise": "43.99",
+      "light": "485.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:49:59.323845"
+    },
+    {
+      "movement": "40",
+      "noise": "48.63",
+      "light": "341.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:50:02.302911"
+    },
+    {
+      "movement": "604",
+      "noise": "48.3",
+      "light": "299.51",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:50:05.459497"
+    },
+    {
+      "movement": "277",
+      "noise": "50.1",
+      "light": "300.68",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:50:08.192932"
+    },
+    {
+      "movement": "122",
+      "noise": "59.85",
+      "light": "301.07",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:50:11.092292"
+    },
+    {
+      "movement": "425",
+      "noise": "43.91",
+      "light": "300.68",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:50:13.390045"
+    },
+    {
+      "movement": "357",
+      "noise": "61.47",
+      "light": "296.39",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:51:36.436069"
+    },
+    {
+      "movement": "517",
+      "noise": "57.72",
+      "light": "293.26",
+      "temperature": "22.3",
+      "case": 23,
+      "time": "2023-10-30 18:51:42.217566"
+    },
+    {
+      "movement": "348",
+      "noise": "48.6",
+      "light": "297.17",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:51:45.198295"
+    },
+    {
+      "movement": "293",
+      "noise": "48.51",
+      "light": "296.78",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:51:47.413945"
+    },
+    {
+      "movement": "161",
+      "noise": "46.45",
+      "light": "296.39",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:51:50.334130"
+    },
+    {
+      "movement": "53",
+      "noise": "51.09",
+      "light": "296.78",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:51:56.278725"
+    },
+    {
+      "movement": "161",
+      "noise": "50.99",
+      "light": "297.17",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:51:59.253219"
+    },
+    {
+      "movement": "123",
+      "noise": "41.18",
+      "light": "297.56",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:02.195895"
+    },
+    {
+      "movement": "75",
+      "noise": "41.54",
+      "light": "294.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:05.167219"
+    },
+    {
+      "movement": "146",
+      "noise": "50.26",
+      "light": "480.58",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:07.334156"
+    },
+    {
+      "movement": "208",
+      "noise": "54.83",
+      "light": "294.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:10.293033"
+    },
+    {
+      "movement": "163",
+      "noise": "52.83",
+      "light": "294.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:13.264970"
+    },
+    {
+      "movement": "130",
+      "noise": "49.4",
+      "light": "294.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:16.343428"
+    },
+    {
+      "movement": "143",
+      "noise": "60.9",
+      "light": "293.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:19.247226"
+    },
+    {
+      "movement": "183",
+      "noise": "54.59",
+      "light": "294.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:22.173629"
+    },
+    {
+      "movement": "251",
+      "noise": "63.19",
+      "light": "296.39",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:24.459394"
+    },
+    {
+      "movement": "193",
+      "noise": "55.55",
+      "light": "298.34",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:27.323331"
+    },
+    {
+      "movement": "128",
+      "noise": "49.79",
+      "light": "299.9",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:30.373273"
+    },
+    {
+      "movement": "115",
+      "noise": "50.81",
+      "light": "300.29",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:33.377931"
+    },
+    {
+      "movement": "162",
+      "noise": "50.45",
+      "light": "299.12",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:36.347881"
+    },
+    {
+      "movement": "86",
+      "noise": "58.5",
+      "light": "298.73",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:39.359071"
+    },
+    {
+      "movement": "87",
+      "noise": "53.6",
+      "light": "299.12",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:42.296978"
+    },
+    {
+      "movement": "72",
+      "noise": "53.54",
+      "light": "298.34",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:47.288794"
+    },
+    {
+      "movement": "133",
+      "noise": "49.4",
+      "light": "298.73",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:50.299270"
+    },
+    {
+      "movement": "76",
+      "noise": "55.15",
+      "light": "300.29",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:53.260885"
+    },
+    {
+      "movement": "40",
+      "noise": "56",
+      "light": "414.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:56.271876"
+    },
+    {
+      "movement": "267",
+      "noise": "53.29",
+      "light": "427.31",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:52:59.227565"
+    },
+    {
+      "movement": "175",
+      "noise": "51.48",
+      "light": "301.85",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:02.165375"
+    },
+    {
+      "movement": "193",
+      "noise": "47.18",
+      "light": "361.75",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:07.361866"
+    },
+    {
+      "movement": "89",
+      "noise": "45.86",
+      "light": "478.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:10.299568"
+    },
+    {
+      "movement": "39",
+      "noise": "58.09",
+      "light": "301.85",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:13.282974"
+    },
+    {
+      "movement": "207",
+      "noise": "53.06",
+      "light": "302.24",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:16.240953"
+    },
+    {
+      "movement": "180",
+      "noise": "51.11",
+      "light": "301.85",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:19.217203"
+    },
+    {
+      "movement": "50",
+      "noise": "47.87",
+      "light": "301.07",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:24.328694"
+    },
+    {
+      "movement": "258",
+      "noise": "61.38",
+      "light": "299.51",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:27.387997"
+    },
+    {
+      "movement": "265",
+      "noise": "70.81",
+      "light": "294.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:30.269498"
+    },
+    {
+      "movement": "484",
+      "noise": "59.13",
+      "light": "296.39",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:33.386695"
+    },
+    {
+      "movement": "387",
+      "noise": "53.84",
+      "light": "296",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:36.309107"
+    },
+    {
+      "movement": "381",
+      "noise": "61.31",
+      "light": "297.95",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:39.204816"
+    },
+    {
+      "movement": "590",
+      "noise": "55.4",
+      "light": "299.12",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:42.142818"
+    },
+    {
+      "movement": "414",
+      "noise": "64.76",
+      "light": "297.95",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:44.342305"
+    },
+    {
+      "movement": "467",
+      "noise": "62.22",
+      "light": "294.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:47.368220"
+    },
+    {
+      "movement": "416",
+      "noise": "60.67",
+      "light": "292.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:53.284616"
+    },
+    {
+      "movement": "739",
+      "noise": "60.7",
+      "light": "296.58",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:56.281960"
+    },
+    {
+      "movement": "498",
+      "noise": "50.81",
+      "light": "430.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:53:59.198385"
+    },
+    {
+      "movement": "358",
+      "noise": "52.37",
+      "light": "291.7",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:01.407837"
+    },
+    {
+      "movement": "540",
+      "noise": "51.78",
+      "light": "294.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:04.365358"
+    },
+    {
+      "movement": "302",
+      "noise": "52.8",
+      "light": "479.8",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:07.300551"
+    },
+    {
+      "movement": "270",
+      "noise": "52.73",
+      "light": "479.02",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:10.314428"
+    },
+    {
+      "movement": "339",
+      "noise": "54.54",
+      "light": "338.14",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:13.276478"
+    },
+    {
+      "movement": "465",
+      "noise": "58.6",
+      "light": "293.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:16.247312"
+    },
+    {
+      "movement": "222",
+      "noise": "47.46",
+      "light": "291.31",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:19.215708"
+    },
+    {
+      "movement": "193",
+      "noise": "48.53",
+      "light": "478.24",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:21.392869"
+    },
+    {
+      "movement": "106",
+      "noise": "55.45",
+      "light": "303.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:24.316099"
+    },
+    {
+      "movement": "320",
+      "noise": "53.08",
+      "light": "294.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:27.289139"
+    },
+    {
+      "movement": "467",
+      "noise": "49.48",
+      "light": "294.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:30.280483"
+    },
+    {
+      "movement": "252",
+      "noise": "42.47",
+      "light": "293.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:33.242190"
+    },
+    {
+      "movement": "372",
+      "noise": "43.2",
+      "light": "292.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:36.312539"
+    },
+    {
+      "movement": "501",
+      "noise": "56.76",
+      "light": "296",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:39.183670"
+    },
+    {
+      "movement": "659",
+      "noise": "60.75",
+      "light": "295.21",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:41.386554"
+    },
+    {
+      "movement": "462",
+      "noise": "61.8",
+      "light": "296",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:44.281869"
+    },
+    {
+      "movement": "425",
+      "noise": "52.11",
+      "light": "289.56",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:47.304972"
+    },
+    {
+      "movement": "741",
+      "noise": "69.74",
+      "light": "243.9",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:50.286878"
+    },
+    {
+      "movement": "1954",
+      "noise": "70.53",
+      "light": "52.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:53.243139"
+    },
+    {
+      "movement": "1335",
+      "noise": "61.51",
+      "light": "198.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:56.209218"
+    },
+    {
+      "movement": "1485",
+      "noise": "55.12",
+      "light": "282.92",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:54:59.149026"
+    },
+    {
+      "movement": "777",
+      "noise": "59.06",
+      "light": "297.95",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:01.331627"
+    },
+    {
+      "movement": "1051",
+      "noise": "68.41",
+      "light": "302.24",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:04.289812"
+    },
+    {
+      "movement": "598",
+      "noise": "44.98",
+      "light": "344.97",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:10.313119"
+    },
+    {
+      "movement": "253",
+      "noise": "47.88",
+      "light": "326.63",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:13.315052"
+    },
+    {
+      "movement": "108",
+      "noise": "57.4",
+      "light": "302.63",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:16.253202"
+    },
+    {
+      "movement": "21",
+      "noise": "49.85",
+      "light": "489.17",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:21.375470"
+    },
+    {
+      "movement": "29",
+      "noise": "40.92",
+      "light": "489.95",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:24.295209"
+    },
+    {
+      "movement": "38",
+      "noise": "44.3",
+      "light": "492.29",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:27.327595"
+    },
+    {
+      "movement": "270",
+      "noise": "48.67",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:30.267962"
+    },
+    {
+      "movement": "21",
+      "noise": "43.23",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:44.313268"
+    },
+    {
+      "movement": "39",
+      "noise": "41.18",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:50.258730"
+    },
+    {
+      "movement": "35",
+      "noise": "39.18",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:53.232866"
+    },
+    {
+      "movement": "17",
+      "noise": "39.47",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:55:58.391417"
+    },
+    {
+      "movement": "12",
+      "noise": "40.96",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:56:16.173550"
+    },
+    {
+      "movement": "24",
+      "noise": "40.32",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:56:18.409049"
+    },
+    {
+      "movement": "36",
+      "noise": "40.49",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:56:30.293792"
+    },
+    {
+      "movement": "186",
+      "noise": "40.44",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:56:33.218060"
+    },
+    {
+      "movement": "46",
+      "noise": "44.39",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:56:38.378117"
+    },
+    {
+      "movement": "90",
+      "noise": "38.95",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:56:44.316050"
+    },
+    {
+      "movement": "65",
+      "noise": "38.25",
+      "light": "330.92",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:56:47.285158"
+    },
+    {
+      "movement": "31",
+      "noise": "43.94",
+      "light": "438.24",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:56:50.270385"
+    },
+    {
+      "movement": "56",
+      "noise": "41.39",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:56:53.226080"
+    },
+    {
+      "movement": "27",
+      "noise": "40.93",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:56:56.192102"
+    },
+    {
+      "movement": "63",
+      "noise": "38.9",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:04.295409"
+    },
+    {
+      "movement": "96",
+      "noise": "38.81",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:07.259744"
+    },
+    {
+      "movement": "41",
+      "noise": "39.58",
+      "light": "307.31",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:13.171558"
+    },
+    {
+      "movement": "53",
+      "noise": "40.22",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:18.316390"
+    },
+    {
+      "movement": "30",
+      "noise": "39.48",
+      "light": "307.31",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:24.273020"
+    },
+    {
+      "movement": "215",
+      "noise": "39.41",
+      "light": "307.7",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:27.241728"
+    },
+    {
+      "movement": "138",
+      "noise": "39.16",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:30.294865"
+    },
+    {
+      "movement": "63",
+      "noise": "42.56",
+      "light": "493.85",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:33.171990"
+    },
+    {
+      "movement": "52",
+      "noise": "39.46",
+      "light": "376.78",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:35.415255"
+    },
+    {
+      "movement": "27",
+      "noise": "40.06",
+      "light": "494.24",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:38.285469"
+    },
+    {
+      "movement": "26",
+      "noise": "38.19",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:41.355095"
+    },
+    {
+      "movement": "20",
+      "noise": "39.23",
+      "light": "307.7",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:44.267612"
+    },
+    {
+      "movement": "26",
+      "noise": "38.56",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:47.255907"
+    },
+    {
+      "movement": "20",
+      "noise": "57.45",
+      "light": "307.31",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:50.266400"
+    },
+    {
+      "movement": "19",
+      "noise": "45.01",
+      "light": "311.21",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:57:53.170576"
+    },
+    {
+      "movement": "82",
+      "noise": "39.84",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:01.290135"
+    },
+    {
+      "movement": "342",
+      "noise": "41.05",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:04.290788"
+    },
+    {
+      "movement": "158",
+      "noise": "45.27",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:07.260539"
+    },
+    {
+      "movement": "139",
+      "noise": "52.12",
+      "light": "307.31",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:10.201575"
+    },
+    {
+      "movement": "153",
+      "noise": "47.95",
+      "light": "305.75",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:13.196995"
+    },
+    {
+      "movement": "70",
+      "noise": "47.02",
+      "light": "306.14",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:15.352072"
+    },
+    {
+      "movement": "51",
+      "noise": "44.11",
+      "light": "305.75",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:21.291040"
+    },
+    {
+      "movement": "73",
+      "noise": "48.72",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:24.268110"
+    },
+    {
+      "movement": "240",
+      "noise": "47.75",
+      "light": "391.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:27.230113"
+    },
+    {
+      "movement": "268",
+      "noise": "44.54",
+      "light": "478.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:30.199299"
+    },
+    {
+      "movement": "399",
+      "noise": "51.3",
+      "light": "449.17",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:33.165192"
+    },
+    {
+      "movement": "213",
+      "noise": "43.46",
+      "light": "307.31",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:35.332750"
+    },
+    {
+      "movement": "81",
+      "noise": "39.94",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:41.285224"
+    },
+    {
+      "movement": "36",
+      "noise": "42.43",
+      "light": "307.31",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:44.330383"
+    },
+    {
+      "movement": "46",
+      "noise": "39.55",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:47.299882"
+    },
+    {
+      "movement": "54",
+      "noise": "40.76",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:50.175663"
+    },
+    {
+      "movement": "97",
+      "noise": "57.14",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:52.428200"
+    },
+    {
+      "movement": "109",
+      "noise": "44.64",
+      "light": "309.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:55.315029"
+    },
+    {
+      "movement": "212",
+      "noise": "41.3",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:58:58.314180"
+    },
+    {
+      "movement": "91",
+      "noise": "53.06",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:01.329162"
+    },
+    {
+      "movement": "194",
+      "noise": "45.08",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:04.241502"
+    },
+    {
+      "movement": "135",
+      "noise": "43.87",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:07.320134"
+    },
+    {
+      "movement": "59",
+      "noise": "41.96",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:10.238941"
+    },
+    {
+      "movement": "183",
+      "noise": "52.29",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:21.274376"
+    },
+    {
+      "movement": "253",
+      "noise": "48.72",
+      "light": "376.19",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:24.237818"
+    },
+    {
+      "movement": "96",
+      "noise": "41.51",
+      "light": "495.8",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:27.337270"
+    },
+    {
+      "movement": "58",
+      "noise": "43.34",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:30.206402"
+    },
+    {
+      "movement": "28",
+      "noise": "52.29",
+      "light": "323.9",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:32.358431"
+    },
+    {
+      "movement": "27",
+      "noise": "56.9",
+      "light": "444.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:35.297680"
+    },
+    {
+      "movement": "39",
+      "noise": "38.64",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:38.296483"
+    },
+    {
+      "movement": "12",
+      "noise": "40.45",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:44.245614"
+    },
+    {
+      "movement": "33",
+      "noise": "40.89",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:47.208096"
+    },
+    {
+      "movement": "76",
+      "noise": "39.92",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:50.167812"
+    },
+    {
+      "movement": "37",
+      "noise": "40.92",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:52.323989"
+    },
+    {
+      "movement": "26",
+      "noise": "38.94",
+      "light": "310.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:55.295762"
+    },
+    {
+      "movement": "54",
+      "noise": "41.43",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 18:59:58.278749"
+    },
+    {
+      "movement": "30",
+      "noise": "41.87",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:01.263935"
+    },
+    {
+      "movement": "25",
+      "noise": "42.16",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:07.204797"
+    },
+    {
+      "movement": "19",
+      "noise": "43.03",
+      "light": "432.78",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:10.138736"
+    },
+    {
+      "movement": "651",
+      "noise": "41.95",
+      "light": "310.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:12.394127"
+    },
+    {
+      "movement": "959",
+      "noise": "48.69",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:15.289072"
+    },
+    {
+      "movement": "477",
+      "noise": "48.9",
+      "light": "311.21",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:18.334001"
+    },
+    {
+      "movement": "243",
+      "noise": "51.5",
+      "light": "310.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:21.304370"
+    },
+    {
+      "movement": "633",
+      "noise": "54.34",
+      "light": "311.6",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:24.291535"
+    },
+    {
+      "movement": "374",
+      "noise": "49.21",
+      "light": "483.12",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:27.173582"
+    },
+    {
+      "movement": "233",
+      "noise": "61.78",
+      "light": "312.39",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:29.410784"
+    },
+    {
+      "movement": "183",
+      "noise": "60.67",
+      "light": "312",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:32.338158"
+    },
+    {
+      "movement": "114",
+      "noise": "57.85",
+      "light": "498.14",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:35.333699"
+    },
+    {
+      "movement": "188",
+      "noise": "46.36",
+      "light": "407.8",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:38.301728"
+    },
+    {
+      "movement": "278",
+      "noise": "52.94",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:41.271892"
+    },
+    {
+      "movement": "143",
+      "noise": "51.96",
+      "light": "309.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:44.249342"
+    },
+    {
+      "movement": "70",
+      "noise": "56.62",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:49.464235"
+    },
+    {
+      "movement": "53",
+      "noise": "48.92",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:00:52.331162"
+    },
+    {
+      "movement": "16",
+      "noise": "40.76",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:07.139228"
+    },
+    {
+      "movement": "86",
+      "noise": "48.08",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:09.366942"
+    },
+    {
+      "movement": "48",
+      "noise": "39.19",
+      "light": "387.51",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:15.303309"
+    },
+    {
+      "movement": "108",
+      "noise": "38.1",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:18.270134"
+    },
+    {
+      "movement": "120",
+      "noise": "38.29",
+      "light": "310.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:24.279857"
+    },
+    {
+      "movement": "374",
+      "noise": "38.26",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:27.144787"
+    },
+    {
+      "movement": "334",
+      "noise": "44.52",
+      "light": "355.7",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:29.341271"
+    },
+    {
+      "movement": "153",
+      "noise": "41.16",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:32.298765"
+    },
+    {
+      "movement": "82",
+      "noise": "56.09",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:35.340595"
+    },
+    {
+      "movement": "76",
+      "noise": "48.04",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:38.309066"
+    },
+    {
+      "movement": "93",
+      "noise": "41.85",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:41.279439"
+    },
+    {
+      "movement": "377",
+      "noise": "60.32",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:44.245869"
+    },
+    {
+      "movement": "188",
+      "noise": "60.11",
+      "light": "310.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:47.111072"
+    },
+    {
+      "movement": "277",
+      "noise": "64.71",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:49.370635"
+    },
+    {
+      "movement": "243",
+      "noise": "43",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:01:52.338925"
+    },
+    {
+      "movement": "45",
+      "noise": "39.82",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:01.247147"
+    },
+    {
+      "movement": "37",
+      "noise": "40.54",
+      "light": "309.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:04.215682"
+    },
+    {
+      "movement": "41",
+      "noise": "51.03",
+      "light": "308.48",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:06.470427"
+    },
+    {
+      "movement": "101",
+      "noise": "44.75",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:09.337174"
+    },
+    {
+      "movement": "85",
+      "noise": "42.62",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:12.308111"
+    },
+    {
+      "movement": "39",
+      "noise": "40.87",
+      "light": "419.51",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:15.278291"
+    },
+    {
+      "movement": "35",
+      "noise": "47.59",
+      "light": "495.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:18.246452"
+    },
+    {
+      "movement": "155",
+      "noise": "45.24",
+      "light": "358.24",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:21.247412"
+    },
+    {
+      "movement": "64",
+      "noise": "39.25",
+      "light": "479.6",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:24.198871"
+    },
+    {
+      "movement": "201",
+      "noise": "42.8",
+      "light": "309.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:26.438984"
+    },
+    {
+      "movement": "119",
+      "noise": "46.53",
+      "light": "345.95",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:29.319712"
+    },
+    {
+      "movement": "75",
+      "noise": "46.27",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:32.306581"
+    },
+    {
+      "movement": "39",
+      "noise": "50.18",
+      "light": "308.09",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:35.295070"
+    },
+    {
+      "movement": "30",
+      "noise": "48.21",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:38.331511"
+    },
+    {
+      "movement": "49",
+      "noise": "47.37",
+      "light": "309.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:44.172698"
+    },
+    {
+      "movement": "37",
+      "noise": "43.13",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:46.407722"
+    },
+    {
+      "movement": "34",
+      "noise": "40.04",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:49.294259"
+    },
+    {
+      "movement": "57",
+      "noise": "39.11",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:02:52.347448"
+    },
+    {
+      "movement": "87",
+      "noise": "38.99",
+      "light": "483.12",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:04.105851"
+    },
+    {
+      "movement": "58",
+      "noise": "39.3",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:06.374171"
+    },
+    {
+      "movement": "114",
+      "noise": "42.61",
+      "light": "495.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:09.346829"
+    },
+    {
+      "movement": "93",
+      "noise": "40.17",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:12.317377"
+    },
+    {
+      "movement": "51",
+      "noise": "42.78",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:15.289401"
+    },
+    {
+      "movement": "86",
+      "noise": "40.61",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:18.255740"
+    },
+    {
+      "movement": "69",
+      "noise": "44.5",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:24.189607"
+    },
+    {
+      "movement": "97",
+      "noise": "40.01",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:26.353122"
+    },
+    {
+      "movement": "56",
+      "noise": "41.23",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:38.328875"
+    },
+    {
+      "movement": "19",
+      "noise": "39.28",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:52.354503"
+    },
+    {
+      "movement": "30",
+      "noise": "39.86",
+      "light": "494.63",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:03:58.295501"
+    },
+    {
+      "movement": "20",
+      "noise": "39.59",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:01.168684"
+    },
+    {
+      "movement": "22",
+      "noise": "42.69",
+      "light": "377.36",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:03.416734"
+    },
+    {
+      "movement": "43",
+      "noise": "41.25",
+      "light": "309.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:06.309553"
+    },
+    {
+      "movement": "25",
+      "noise": "50.62",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:09.296254"
+    },
+    {
+      "movement": "121",
+      "noise": "39.01",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:12.321144"
+    },
+    {
+      "movement": "53",
+      "noise": "38.69",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:15.239687"
+    },
+    {
+      "movement": "33",
+      "noise": "38.54",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:18.269427"
+    },
+    {
+      "movement": "59",
+      "noise": "39.3",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:21.163169"
+    },
+    {
+      "movement": "46",
+      "noise": "41.7",
+      "light": "310.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:29.319713"
+    },
+    {
+      "movement": "66",
+      "noise": "40.69",
+      "light": "440.19",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:35.261799"
+    },
+    {
+      "movement": "106",
+      "noise": "39.38",
+      "light": "311.21",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:38.229710"
+    },
+    {
+      "movement": "100",
+      "noise": "38.75",
+      "light": "371.12",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:43.349251"
+    },
+    {
+      "movement": "49",
+      "noise": "45.85",
+      "light": "311.21",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:46.319418"
+    },
+    {
+      "movement": "27",
+      "noise": "38.92",
+      "light": "311.6",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:49.286185"
+    },
+    {
+      "movement": "21",
+      "noise": "38.98",
+      "light": "311.21",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:52.360407"
+    },
+    {
+      "movement": "60",
+      "noise": "38.29",
+      "light": "480.39",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:55.241114"
+    },
+    {
+      "movement": "55",
+      "noise": "41.69",
+      "light": "310.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:04:58.216996"
+    },
+    {
+      "movement": "17",
+      "noise": "56.24",
+      "light": "307.31",
+      "temperature": "22.2",
+      "case": 23,
+      "time": "2023-10-30 19:05:15.247458"
+    },
+    {
+      "movement": "489",
+      "noise": "53.14",
+      "light": "316.29",
+      "temperature": "22.3",
+      "case": 23,
+      "time": "2023-10-30 19:05:18.196199"
+    },
+    {
+      "movement": "762",
+      "noise": "41.71",
+      "light": "319.41",
+      "temperature": "22.2",
+      "case": 23,
+      "time": "2023-10-30 19:05:20.417704"
+    },
+    {
+      "movement": "23",
+      "noise": "38.67",
+      "light": "492.68",
+      "temperature": "22.3",
+      "case": 23,
+      "time": "2023-10-30 19:05:35.313339"
+    },
+    {
+      "movement": "17",
+      "noise": "45.06",
+      "light": "505.17",
+      "temperature": "22.2",
+      "case": 23,
+      "time": "2023-10-30 19:05:38.234593"
+    },
+    {
+      "movement": "23",
+      "noise": "47.6",
+      "light": "319.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:05:40.386842"
+    },
+    {
+      "movement": "25",
+      "noise": "43.4",
+      "light": "319.8",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:05:46.326988"
+    },
+    {
+      "movement": "23",
+      "noise": "38.35",
+      "light": "319.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:05:49.296507"
+    },
+    {
+      "movement": "12",
+      "noise": "40.71",
+      "light": "367.21",
+      "temperature": "22.2",
+      "case": 23,
+      "time": "2023-10-30 19:06:20.331478"
+    },
+    {
+      "movement": "13",
+      "noise": "42.72",
+      "light": "319.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:06:23.326704"
+    },
+    {
+      "movement": "12",
+      "noise": "53.01",
+      "light": "426.53",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:07:06.385663"
+    },
+    {
+      "movement": "17",
+      "noise": "47.43",
+      "light": "365.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:07:09.278438"
+    },
+    {
+      "movement": "15",
+      "noise": "41.16",
+      "light": "319.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:07:12.296510"
+    },
+    {
+      "movement": "24",
+      "noise": "48.69",
+      "light": "319.6",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:07:17.388955"
+    },
+    {
+      "movement": "23",
+      "noise": "43.43",
+      "light": "319.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:07:20.331384"
+    },
+    {
+      "movement": "26",
+      "noise": "46.8",
+      "light": "504.78",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:07:23.320300"
+    },
+    {
+      "movement": "30",
+      "noise": "46.65",
+      "light": "319.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:07:26.272355"
+    },
+    {
+      "movement": "26",
+      "noise": "46.19",
+      "light": "319.02",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:09.280889"
+    },
+    {
+      "movement": "24",
+      "noise": "49.09",
+      "light": "317.07",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:12.259484"
+    },
+    {
+      "movement": "230",
+      "noise": "53.22",
+      "light": "307.7",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:15.214311"
+    },
+    {
+      "movement": "702",
+      "noise": "66.19",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:17.378270"
+    },
+    {
+      "movement": "440",
+      "noise": "59.72",
+      "light": "336.39",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:20.407282"
+    },
+    {
+      "movement": "221",
+      "noise": "71.52",
+      "light": "495.41",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:23.308117"
+    },
+    {
+      "movement": "287",
+      "noise": "60.57",
+      "light": "384.97",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:26.300528"
+    },
+    {
+      "movement": "212",
+      "noise": "65.14",
+      "light": "312",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:29.244997"
+    },
+    {
+      "movement": "135",
+      "noise": "63.46",
+      "light": "312.39",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:32.214872"
+    },
+    {
+      "movement": "259",
+      "noise": "69.41",
+      "light": "309.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:34.470440"
+    },
+    {
+      "movement": "163",
+      "noise": "57.23",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:37.336913"
+    },
+    {
+      "movement": "142",
+      "noise": "52.87",
+      "light": "309.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:40.305577"
+    },
+    {
+      "movement": "192",
+      "noise": "42.28",
+      "light": "308.87",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:43.282112"
+    },
+    {
+      "movement": "94",
+      "noise": "57.04",
+      "light": "309.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:46.256610"
+    },
+    {
+      "movement": "47",
+      "noise": "41.72",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:49.242916"
+    },
+    {
+      "movement": "30",
+      "noise": "39.19",
+      "light": "310.04",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:08:57.320639"
+    },
+    {
+      "movement": "34",
+      "noise": "70.08",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:03.259095"
+    },
+    {
+      "movement": "50",
+      "noise": "38.27",
+      "light": "320.78",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:09.284033"
+    },
+    {
+      "movement": "25",
+      "noise": "42.77",
+      "light": "481.56",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:12.171702"
+    },
+    {
+      "movement": "15",
+      "noise": "38.7",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:14.403868"
+    },
+    {
+      "movement": "9",
+      "noise": "38.25",
+      "light": "495.8",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:17.306594"
+    },
+    {
+      "movement": "23",
+      "noise": "38.66",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:20.343628"
+    },
+    {
+      "movement": "91",
+      "noise": "40.75",
+      "light": "349.07",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:26.284075"
+    },
+    {
+      "movement": "169",
+      "noise": "40.95",
+      "light": "309.65",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:29.251693"
+    },
+    {
+      "movement": "196",
+      "noise": "39.1",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:32.219896"
+    },
+    {
+      "movement": "53",
+      "noise": "46.28",
+      "light": "309.26",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:37.341589"
+    },
+    {
+      "movement": "196",
+      "noise": "39.17",
+      "light": "311.21",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:40.312157"
+    },
+    {
+      "movement": "361",
+      "noise": "39.64",
+      "light": "463.21",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:49.220878"
+    },
+    {
+      "movement": "342",
+      "noise": "38.29",
+      "light": "311.6",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:09:52.187094"
+    },
+    {
+      "movement": "158",
+      "noise": "45.25",
+      "light": "311.21",
+      "temperature": "22.1",
+      "case": 23,
+      "time": "2023-10-30 19:09:54.340744"
+    },
+    {
+      "movement": "50",
+      "noise": "38.13",
+      "light": "496.19",
+      "temperature": "22.2",
+      "case": 23,
+      "time": "2023-10-30 19:10:03.267613"
+    },
+    {
+      "movement": "40",
+      "noise": "40.77",
+      "light": "420.29",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:10:06.255889"
+    },
+    {
+      "movement": "116",
+      "noise": "40.19",
+      "light": "310.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:10:09.205503"
+    },
+    {
+      "movement": "66",
+      "noise": "38.92",
+      "light": "312",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:10:14.320315"
+    },
+    {
+      "movement": "154",
+      "noise": "42.83",
+      "light": "312.39",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:10:17.314383"
+    },
+    {
+      "movement": "72",
+      "noise": "46.26",
+      "light": "310.82",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:10:20.277791"
+    },
+    {
+      "movement": "134",
+      "noise": "48.87",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:10:23.249868"
+    },
+    {
+      "movement": "146",
+      "noise": "48.41",
+      "light": "310.82",
+      "temperature": "22.1",
+      "case": 23,
+      "time": "2023-10-30 19:10:29.169553"
+    },
+    {
+      "movement": "67",
+      "noise": "48.56",
+      "light": "311.21",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:10:31.439601"
+    },
+    {
+      "movement": "69",
+      "noise": "51.39",
+      "light": "309.26",
+      "temperature": "22.2",
+      "case": 23,
+      "time": "2023-10-30 19:10:34.332601"
+    },
+    {
+      "movement": "412",
+      "noise": "45.94",
+      "light": "310.04",
+      "temperature": "22.1",
+      "case": 23,
+      "time": "2023-10-30 19:10:37.335816"
+    },
+    {
+      "movement": "157",
+      "noise": "38.75",
+      "light": "310.43",
+      "temperature": null,
+      "case": 23,
+      "time": "2023-10-30 19:10:40.318385"
+    },
+    {
+      "movement": "70",
+      "noise": "38.66",
+      "light": "391.8",
+      "temperature": "22.2",
+      "case": 23,
+      "time": "2023-10-30 19:10:43.261729"
+    }
+  ]

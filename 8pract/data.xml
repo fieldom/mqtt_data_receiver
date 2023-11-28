@@ -1,0 +1,74 @@
+<root>
+    <elem>
+        <movement>294</movement>
+        <noise>66.95</noise>
+        <light>289.75</light>
+        <temperature>21.8</temperature>
+        <case>23</case>
+        <time>2023-10-30 18:52:07.334156</time>
+    </elem>
+    <elem>
+        <movement>133</movement>
+        <noise>59.85</noise>
+        <light>296.78</light>
+        <temperature>22.3</temperature>
+        <case>23</case>
+        <time>2023-10-30 18:52:10.293033</time>
+    </elem>
+    <elem>
+        <movement>63</movement>
+        <noise>43.91</noise>
+        <light>297.17</light>
+        <temperature>null</temperature>
+        <case>23</case>
+        <time>2023-10-30 18:52:13.264970</time>
+    </elem>
+    <elem>
+        <movement>55</movement>
+        <noise>57.72</noise>
+        <light>297.56</light>
+        <temperature>null</temperature>
+        <case>23</case>
+        <time>2023-10-30 18:52:16.343428</time>
+    </elem>
+    <elem>
+        <movement>68</movement>
+        <noise>48.6</noise>
+        <light>294.82</light>
+        <temperature>null</temperature>
+        <case>23</case>
+        <time>2023-10-30 18:52:19.247226</time>
+    </elem>
+    <elem>
+        <movement>63</movement>
+        <noise>48.51</noise>
+        <light>480.58</light>
+        <temperature>null</temperature>
+        <case>23</case>
+        <time>2023-10-30 18:52:22.173629</time>
+    </elem>
+    <elem>
+        <movement>40</movement>
+        <noise>46.45</noise>
+        <light>294.04</light>
+        <temperature>null</temperature>
+        <case>23</case>
+        <time>2023-10-30 18:52:24.459394</time>
+    </elem>
+    <elem>
+        <movement>604</movement>
+        <noise>51.09</noise>
+        <light>294.82</light>
+        <temperature>null</temperature>
+        <case>23</case>
+        <time>2023-10-30 18:52:27.323331</time>
+    </elem>
+    <elem>
+        <movement>277</movement>
+        <noise>50.99</noise>
+        <light>289.75</light>
+        <temperature>null</temperature>
+        <case>23</case>
+        <time>2023-10-30 18:52:30.373273</time>
+    </elem>
+</root>
